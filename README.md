@@ -11,6 +11,7 @@ The **Lemmatize class** applies a `finite state transducer (FST)` model to syste
 
 ```bash
 pip install numpy
+```
 
 ## Run Test
 ***Clone the Repository and run:***
